@@ -1,4 +1,4 @@
-
+¥
 <?php
 include 'includes/header.php';
 include 'includes/navbar.php';
@@ -8,6 +8,12 @@ include 'includes/sidebar.php';
 <div class="content-wrapper">
     <!-- main content start -->
     <div class="container-fluid pt-4 px-4">
+    <div class="col-md-12 text-left">
+                    <button type="button" class="btn btn-primary mr-2" onclick="window.location.href='student_list.php'"><i class="fa-solid fa-arrow-left"></i> Back</button>
+                    <button type="button" class="btn btn-info"><i class="fa-solid fa-arrows-rotate"></i> Refresh</button>
+                   
+                </div>
+    <br>
         <ul class="nav nav-tabs" id="myTab" role="tablist">
             <li class="nav-item">
                 <a class="nav-link active" id="basic-info-tab" data-toggle="tab" href="#basic-info" role="tab" aria-controls="basic-info" aria-selected="true">Basic Info</a>
