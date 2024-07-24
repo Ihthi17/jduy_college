@@ -61,7 +61,7 @@ include 'includes/sidebar.php';
                         </div>
                     </div>
                     <div class="row mt-3">
-                        <div class="col-md-6">
+                        <div class="col-md-4">
                             <label for="gender">Gender *</label>
                             <select id="gender" class="form-control" required>
                                 <option value="">Select</option>
@@ -70,23 +70,23 @@ include 'includes/sidebar.php';
                                 <option value="other">Other</option>
                             </select>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-4">
                             <label for="dob">Date Of Birth *</label>
                             <input type="date" id="dob" class="form-control" placeholder="mm/dd/yyyy" required>
                         </div>
-                    </div>
-                    <div class="row mt-3">
-                        <div class="col-md-6">
+                   
+                        <div class="col-md-4">
                             <label for="emergency-phone">Emergency Phone</label>
                             <input type="tel" id="emergency-phone" class="form-control">
                         </div>
-                        <div class="col-md-6">
+                    </div>
+                     <div class="row mt-3">
+                        <div class="col-md-4">
                             <label for="religion">Religion</label>
                             <input type="text" id="religion" class="form-control">
                         </div>
-                    </div>
-                    <div class="row mt-3">
-                        <div class="col-md-6">
+                    
+                        <div class="col-md-4">
                             <label for="marital-status">Marital Status</label>
                             <select id="marital-status" class="form-control">
                                 <option value="">Select</option>
@@ -97,24 +97,24 @@ include 'includes/sidebar.php';
                             </select>
                         </div>
                         
-                    </div>
-                    <div class="row mt-3">
-                        <div class="col-md-6">
+                    
+                        <div class="col-md-4">
                             <label for="national-id">National ID</label>
                             <input type="text" id="national-id" class="form-control">
                         </div>
+                     </div>
+                      <div class="row mt-3">
                         <div class="col-md-6">
                             <label for="passport-no">Passport No</label>
                             <input type="text" id="passport-no" class="form-control">
                         </div>
-                    </div>
-                    <div class="row mt-3">
+                    
                         <div class="col-md-6">
                             <label for="admission-date">Admission Date *</label>
                             <input type="date" id="admission-date" class="form-control"  required>
                         </div>
                     </div>
-                    <h5 class="mt-4">Sponsors Details</h5>
+                    <h5 class="mt-4 text-info">Sponsors Details</h5>
                      <div class="row mt-3">
                         <div class="col-md-6">
                             <label for="admission-date">Sponsor Name *</label>
@@ -146,48 +146,47 @@ include 'includes/sidebar.php';
                             <input type="text" id="admission-date" class="form-control"  required>
                         </div>
                       </div>
-                    <h5 class="mt-4">Present Address</h5>
+                    <h5 class="mt-4 text-info">Present Address</h5>
                     <div class="row mt-3">
-                        <div class="col-md-6">
+                        <div class="col-md-4">
                             <label for="present-state">Province</label>
                             <select id="present-state" class="form-control">
                                 <option value="">Select</option>
                                 <!-- Add options as needed -->
                             </select>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-4">
                             <label for="present-district">District/City</label>
                             <select id="present-district" class="form-control">
                                 <option value="">Select</option>
                                 <!-- Add options as needed -->
                             </select>
                         </div>
-                    </div>
-                    <div class="row mt-3">
-                        <div class="col-md-12">
+                    
+                    
+                        <div class="col-md-4">
                             <label for="present-address">Address</label>
                             <input type="text" id="present-address" class="form-control">
                         </div>
                     </div>
-                    <h5 class="mt-4">Permanent Address</h5>
+                    <h5 class="mt-4 text-infogit">Permanent Address</h5>
                     <div class="row mt-3">
-                        <div class="col-md-6">
+                        <div class="col-md-4">
                             <label for="permanent-state">State</label>
                             <select id="permanent-state" class="form-control">
                                 <option value="">Select</option>
                                 <!-- Add options as needed -->
                             </select>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-4">
                             <label for="permanent-district">District/City</label>
                             <select id="permanent-district" class="form-control">
                                 <option value="">Select</option>
                                 <!-- Add options as needed -->
                             </select>
                         </div>
-                    </div>
-                    <div class="row mt-3">
-                        <div class="col-md-12">
+                    
+                        <div class="col-md-4">
                             <label for="permanent-address">Address</label>
                             <input type="text" id="permanent-address" class="form-control">
                         </div>
@@ -366,6 +365,7 @@ include 'includes/sidebar.php';
             </div>
         </div>
     </div>
+</div>
 </div>
 </div>
 <?php include 'includes/footer.php';?>
