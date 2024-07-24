@@ -132,13 +132,13 @@
                         </a>
                         <ul class="nav nav-treeview">
                             <li class="nav-item">
-                                <a href="#" class="nav-link">
+                                <a href="leave_manage.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Leave Management</p>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="#" class="nav-link">
+                                <a href="student_notes.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Student Notes</p>
                                 </a>
