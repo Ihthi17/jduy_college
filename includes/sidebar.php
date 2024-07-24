@@ -162,10 +162,43 @@
                                 <a href="#" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Student Enrolls</p>
+                                    <i class="right fas fa-angle-left"></i>
                                 </a>
+                                 <ul class="nav nav-treeview">
+                                    <li class="nav-item">
+                                        <a href="single_enroll.php" class="nav-link">
+                                            <i class="far fa-circle nav-icon"></i>
+                                            <p>Single Enrolls</p>
+                                        </a>
+                                    </li>
+                                </ul>
+                                 <ul class="nav nav-treeview">
+                                    <li class="nav-item">
+                                        <a href="group_enroll.php" class="nav-link">
+                                            <i class="far fa-circle nav-icon"></i>
+                                            <p>Group Enrolls</p>
+                                        </a>
+                                    </li>
+                                </ul>
+                                 <ul class="nav nav-treeview">
+                                    <li class="nav-item">
+                                        <a href="course_add_drop.php" class="nav-link">
+                                            <i class="far fa-circle nav-icon"></i>
+                                            <p>Course Add Drop</p>
+                                        </a>
+                                    </li>
+                                </ul>
+                                 <ul class="nav nav-treeview">
+                                    <li class="nav-item">
+                                        <a href="course_complete.php" class="nav-link">
+                                            <i class="far fa-circle nav-icon"></i>
+                                            <p>Course Complete</p>
+                                        </a>
+                                    </li>
+                                </ul>
                             </li>
                             <li class="nav-item">
-                                <a href="#" class="nav-link">
+                                <a href="student_alumni.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Student Alumni</p>
                                 </a>
