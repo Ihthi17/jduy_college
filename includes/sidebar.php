@@ -72,7 +72,22 @@
                                 <a href="#" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Student Transfer</p>
+                                     <i class="right fas fa-angle-left"></i>
                                 </a>
+                                <ul class="nav nav-treeview">
+                                    <li class="nav-item">
+                                        <a href="transfer_in.php" class="nav-link">
+                                            <i class="far fa-circle nav-icon"></i>
+                                            <p>Transfer In</p>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="transfer_out.php" class="nav-link">
+                                            <i class="far fa-circle nav-icon"></i>
+                                            <p>Transfer Out</p>
+                                        </a>
+                                    </li>
+                                </ul>
                             </li>
                             <li class="nav-item">
                                 <a href="status_type.php" class="nav-link">
