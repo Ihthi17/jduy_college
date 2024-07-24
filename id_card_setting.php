@@ -5,14 +5,14 @@ include 'includes/sidebar.php';
 ?>
 <style>
     .btn-icegreen {
-    background-color: #7FE5A8; /* Ice Green background color */
-    border-color: #7FE5A8; /* Border color to match */
-    color: #fff; /* Text color for contrast */
+    background-color: #7FE5A8; 
+    border-color: #7FE5A8; 
+    color: #fff; 
 }
 .btn-icegreen:hover {
-    background-color: #6AD396; /* Darker shade for hover effect */
+    background-color: #6AD396; 
     border-color: #ffff;
-    color: #fff; /* Border color for hover effect */
+    color: #fff; 
 }
 </style>
 
