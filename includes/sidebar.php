@@ -84,7 +84,16 @@
                                 <a href="#" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Setting</p>
+                                    <i class="right fas fa-angle-left"></i>
                                 </a>
+                                 <ul class="nav nav-treeview">
+                                    <li class="nav-item">
+                                        <a href="id_card_setting.php" class="nav-link">
+                                            <i class="far fa-circle nav-icon"></i>
+                                            <p>ID Card Setting</p>
+                                        </a>
+                                    </li>
+                                </ul>
                             </li>
                             <li class="nav-item">
                                 <a href="#" class="nav-link">
@@ -96,13 +105,13 @@
                                 </a>
                                 <ul class="nav nav-treeview">
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
+                                        <a href="subject_atten.php" class="nav-link">
                                             <i class="far fa-circle nav-icon"></i>
                                             <p>Subject Attendance</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
+                                        <a href="atten_report.php" class="nav-link">
                                             <i class="far fa-circle nav-icon"></i>
                                             <p>Attendance Report</p>
                                         </a>
