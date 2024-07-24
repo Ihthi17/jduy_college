@@ -26,9 +26,9 @@ include 'includes/sidebar.php';
     Attendance Report
   </div>
   <div class="card-body">
-   <form action="">
+    <form action="">
     <div class="row">
-             <div class="col-md-6">
+             <div class="col-md-3">
                 <label for="program">Branch</label>
                  <select name="" id="branch" class="form-control">
                             <option value="all">All</option>
@@ -37,32 +37,62 @@ include 'includes/sidebar.php';
             </div>
             
    
-            <div class="col-md-6">
+            <div class="col-md-3">
                <label for="program">Course</label>
                  <select name="" id="course" class="form-control">
                             <option value="all">All</option>
                              
                  </select>
             </div>
-             </div>
+             
              <br>
-             <div class="row">
-            <div class="col-md-6">
+             
+            <div class="col-md-3">
                 <label for="program">Model</label>
-                 <input type="text" id="model" class="form-control" >
+                <select name="" id="model" class="form-control">
+                            <option value="all">All</option>
+                             
+                 </select>
             </div>
-            <div class="col-md-6">
-                <label for="program">Subject</label>
-                 <select name="" id="subject" class="form-control">
+            <div class="col-md-3">
+                <label for="program">Semester</label>
+                 <select name="" id="semester" class="form-control">
                             <option value="all">All</option>
                              
                  </select>
             </div>
              </div>
-              <br>
+             <div class="row">
+             <div class="col-md-3">
+                <label for="program">Section</label>
+                 <select name="" id="setion" class="form-control">
+                            <option value="all">All</option>
+                             
+                 </select>
+            </div>
+            
+   
+            <div class="col-md-3">
+               <label for="program">Course</label>
+                 <select name="" id="course" class="form-control">
+                            <option value="all">All</option>
+                             
+                 </select>
+            </div>
+             
+             <br>
+             
+            <div class="col-md-3">
+                <label for="program">Date</label>
+               <input type="date" id="date" class="form-control">
+            </div>
+            
+            
+               </div>
+               <br>
               <div class="col-md-2 col-6 d-flex align-items-end">
-               
-            <button type="submit" class="btn btn-icegreen"><i class="fa-solid fa-check"></i> Update</button>
+              
+            <button type="submit" class="btn btn-icegreen"><i class="fa-solid fa-search"></i> Search</button>
             </form>
             </div>
        
