@@ -368,6 +368,101 @@
                             </li>
                         </ul>
                     </li>
+                  <!--Examinations-->
+                   <li class="nav-item">
+                        <a href="#" class="nav-link">
+                            <i class="far fa-circle nav-icon"></i>
+                            <p>
+                                Examinations
+                                <i class="right fas fa-angle-left"></i>
+                            </p>
+                        </a>
+                        <ul class="nav nav-treeview">
+                            <li class="nav-item">
+                                <a href="exam_attendance.php" class="nav-link">
+                                    <i class="far fa-circle nav-icon"></i>
+                                    <p>Exam Attendance</p>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="exam_mark_ledger.php" class="nav-link">
+                                    <i class="far fa-circle nav-icon"></i>
+                                    <p>Exam Mark Ledger</p>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="exam_result.php" class="nav-link">
+                                    <i class="far fa-circle nav-icon"></i>
+                                    <p>Exam Result</p>
+                                   
+                                </a>
+                                  </li>
+                            <li class="nav-item">
+                                <a href="course_mark_ledger.php" class="nav-link">
+                                    <i class="far fa-circle nav-icon"></i>
+                                    <p>Course Mark Ledger</p>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="course_result.php" class="nav-link">
+                                    <i class="far fa-circle nav-icon"></i>
+                                    <p>
+                                        Course Result
+                                    </p>
+                                </a>
+                                </li>
+                            <li class="nav-item">
+                                <a href="grading_system.php" class="nav-link">
+                                    <i class="far fa-circle nav-icon"></i>
+                                    <p>
+                                        Grading System
+                                    </p>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="exam_type.php" class="nav-link">
+                                    <i class="far fa-circle nav-icon"></i>
+                                    <p>
+                                        Exam Types
+                                    </p>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="admit_cards.php" class="nav-link">
+                                    <i class="far fa-circle nav-icon"></i>
+                                    <p>
+                                        Admit Cards
+                                    </p>
+                                </a>
+                            </li>
+                             <li class="nav-item">
+                                <a href="#" class="nav-link">
+                                    <i class="far fa-circle nav-icon"></i>
+                                    <p>
+                                        Setting
+                                    </p>
+                                     <i class="right fas fa-angle-left"></i>
+                                </a>
+                           <ul class="nav nav-treeview">
+                                    <li class="nav-item">
+                                        <a href="admit_setting.php" class="nav-link">
+                                            <i class="far fa-circle nav-icon"></i>
+                                            <p>Admit Setting</p>
+                                        </a>
+                                    </li>
+                                </ul>
+                                 <ul class="nav nav-treeview">
+                                    <li class="nav-item">
+                                        <a href="contribution.php" class="nav-link">
+                                            <i class="far fa-circle nav-icon"></i>
+                                            <p>Contribution</p>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+
                 </ul>
             </nav>
             <!-- /.sidebar-menu -->
