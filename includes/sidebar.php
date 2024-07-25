@@ -213,7 +213,7 @@
                                 </a>
                                 <ul class="nav nav-treeview">
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
+                                        <a href="create_faculty.php" class="nav-link">
                                             <i class="far fa-circle nav-icon"></i>
                                             <p>Create Faculty</p>
                                         </a>
@@ -230,7 +230,7 @@
                                 </a>
                                 <ul class="nav nav-treeview">
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
+                                        <a href="create_program.php" class="nav-link">
                                             <i class="far fa-circle nav-icon"></i>
                                             <p>Create Program</p>
                                         </a>
