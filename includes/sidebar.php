@@ -251,7 +251,7 @@
                         </a>
                         <ul class="nav nav-treeview">
                             <li class="nav-item">
-                                <a href="#" class="nav-link">
+                                <a href="batches.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Batches</p>
                                 </a>
@@ -266,7 +266,7 @@
                                 </a>
                                 <ul class="nav nav-treeview">
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
+                                        <a href="sessions.php" class="nav-link">
                                             <i class="far fa-circle nav-icon"></i>
                                             <p>Create Session</p>
                                         </a>
@@ -274,19 +274,19 @@
                                 </ul>
                             </li>
                             <li class="nav-item">
-                                <a href="#" class="nav-link">
+                                <a href="semesters.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Semester</p>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="#" class="nav-link">
+                                <a href="sections.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Section</p>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="#" class="nav-link">
+                                <a href="classrooms.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Classroom</p>
                                 </a>
@@ -301,7 +301,7 @@
                                 </a>
                                 <ul class="nav nav-treeview">
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
+                                        <a href="add_course.php" class="nav-link">
                                             <i class="far fa-circle nav-icon"></i>
                                             <p>Add Courses</p>
                                         </a>
@@ -318,7 +318,7 @@
                                 </a>
                                 <ul class="nav nav-treeview">
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
+                                        <a href="Create_enroll_course.php" class="nav-link">
                                             <i class="far fa-circle nav-icon"></i>
                                             <p>Create Enroll Course</p>
                                         </a>
@@ -326,21 +326,21 @@
                                 </ul>
                             </li>
                             <li class="nav-item">
-                                <a href="#" class="nav-link">
+                                <a href="class_routine.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Class Routine</p>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="#" class="nav-link">
+                                <a href="exam_routine.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Exam Routine</p>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="#" class="nav-link">
+                                <a href="lecture_routine.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
-                                    <p>Teacher Routine</p>
+                                    <p>Lecture Routine</p>
                                 </a>
                             </li>
                             <li class="nav-item">
@@ -353,13 +353,13 @@
                                 </a>
                                 <ul class="nav nav-treeview">
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
+                                        <a href="s_class_routine.php" class="nav-link">
                                             <i class="far fa-circle nav-icon"></i>
                                             <p>Class Routine</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
+                                        <a href="s_exam_routine.php" class="nav-link">
                                             <i class="far fa-circle nav-icon"></i>
                                             <p>Exam Routine</p>
                                         </a>
