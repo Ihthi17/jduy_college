@@ -463,6 +463,45 @@
                         </ul>
                     </li>
 
+                            <!--Study Matirial-->
+                         <li class="nav-item">
+                        <a href="#" class="nav-link">
+                            <i class="far fa-circle nav-icon"></i>
+                            <p>
+                                Student Materials
+                                <i class="right fas fa-angle-left"></i>
+                            </p>
+                        </a>
+                        <ul class="nav nav-treeview">
+                            <li class="nav-item">
+                                <a href="assignment_list.php" class="nav-link">
+                                    <i class="far fa-circle nav-icon"></i>
+                                    <p>Assignment List</p>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="content_list.php" class="nav-link">
+                                    <i class="far fa-circle nav-icon"></i>
+                                    <p>
+                                       Content List
+                                       
+                                    </p>
+                                </a>
+                               
+                            </li>
+                            <li class="nav-item">
+                                <a href="content_types.php" class="nav-link">
+                                    <i class="far fa-circle nav-icon"></i>
+                                    <p>Content Types</p>
+                                </a>
+                            </li>
+                            
+                            
+                           
+                               
+                            </li>
+                        </ul>
+                    </li>
                 </ul>
             </nav>
             <!-- /.sidebar-menu -->
