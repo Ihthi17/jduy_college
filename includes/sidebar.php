@@ -593,6 +593,65 @@
               </ul>
             </li>
           </ul>
+                <!--Inventory-->
+                 <li class="nav-item">
+                        <a href="#" class="nav-link">
+                            <i class="far fa-circle nav-icon"></i>
+                            <p>
+                                Inventory
+                                <i class="right fas fa-angle-left"></i>
+                            </p>
+                        </a>
+                        <ul class="nav nav-treeview">
+                            <li class="nav-item">
+                                <a href="item_issues.php" class="nav-link">
+                                    <i class="far fa-circle nav-icon"></i>
+                                    <p>Item Issues</p>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="item_stock.php" class="nav-link">
+                                    <i class="far fa-circle nav-icon"></i>
+                                    <p>
+                                      Item Stock
+                                       
+                                    </p>
+                                </a>
+                               
+                            </li>
+                            <li class="nav-item">
+                                <a href="item_list.php" class="nav-link">
+                                    <i class="far fa-circle nav-icon"></i>
+                                    <p>Item List</p>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="item_store.php" class="nav-link">
+                                    <i class="far fa-circle nav-icon"></i>
+                                    <p>Item Stores</p>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="item_supplier.php" class="nav-link">
+                                    <i class="far fa-circle nav-icon"></i>
+                                    <p>Item Suppliers</p>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="item_category.php" class="nav-link">
+                                    <i class="far fa-circle nav-icon"></i>
+                                    <p>Item Categories</p>
+                                </a>
+                            </li>
+                            
+                            
+                           
+                               
+                            
+                        </ul>
+                    </li>
+               
+                   </li>
         </li>
             
 
