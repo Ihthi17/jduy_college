@@ -499,10 +499,103 @@
                             
                            
                                
-                            </li>
+                            
                         </ul>
                     </li>
-                </ul>
+               
+                   </li>
+                   <!-- Fees Collection -->
+        <li class="nav-item">
+          <a href="#" class="nav-link">
+            <i class="far fa-circle nav-icon"></i>
+            <p>
+              Fees Collection
+              <i class="right fas fa-angle-left"></i>
+            </p>
+          </a>
+          <ul class="nav nav-treeview">
+            <li class="nav-item">
+              <a href="#" class="nav-link">
+                <i class="far fa-circle nav-icon"></i>
+                <p>
+                  Student Fees
+                  <i class="right fas fa-angle-left"></i>
+                </p>
+              </a>
+              <ul class="nav nav-treeview">
+                <li class="nav-item">
+                  <a href="fees_due.php" class="nav-link">
+                    <i class="far fa-circle nav-icon"></i>
+                    <p>Fees Due</p>
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a href="quick_assign.php" class="nav-link">
+                    <i class="far fa-circle nav-icon"></i>
+                    <p>Quick Assign</p>
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a href="quick_received.php" class="nav-link">
+                    <i class="far fa-circle nav-icon"></i>
+                    <p>Quick Received</p>
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a href="fees_report.php" class="nav-link">
+                    <i class="far fa-circle nav-icon"></i>
+                    <p>Fees Report</p>
+                  </a>
+                </li>
+              </ul>
+            </li>
+            <li class="nav-item">
+              <a href="fees_master.php" class="nav-link">
+                <i class="far fa-circle nav-icon"></i>
+                <p>Fees Master</p>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="fees_type.php" class="nav-link">
+                <i class="far fa-circle nav-icon"></i>
+                <p>Fees Types</p>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="fees_discount.php" class="nav-link">
+                <i class="far fa-circle nav-icon"></i>
+                <p>Fees Discount</p>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="#" class="nav-link">
+                <i class="far fa-circle nav-icon"></i>
+                <p>
+                  Setting
+                  <i class="right fas fa-angle-left"></i>
+                </p>
+              </a>
+              <ul class="nav nav-treeview">
+                <li class="nav-item">
+                  <a href="fees_fines.php" class="nav-link">
+                    <i class="far fa-circle nav-icon"></i>
+                    <p>Fees Fines</p>
+                  </a>
+                </li>
+              </ul>
+              <ul class="nav nav-treeview">
+                <li class="nav-item">
+                  <a href="receipt_setting.php" class="nav-link">
+                    <i class="far fa-circle nav-icon"></i>
+                    <p>Receipt Setting</p>
+                  </a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+            
+
             </nav>
             <!-- /.sidebar-menu -->
   </div>
