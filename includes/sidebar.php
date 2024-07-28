@@ -24,7 +24,7 @@
                     <!-- Dashboard -->
                     <li class="nav-item">
                         <a href="./index.php" class="nav-link">
-                            <i class="far fa-circle nav-icon"></i>
+                           <i class="fa-solid fa-gauge"></i>
                             <p>Dashboard</p>
                         </a>
                     </li>
@@ -32,7 +32,7 @@
                     <!-- Admission Menu -->
                     <li class="nav-item">
                         <a href="#" class="nav-link">
-                            <i class="far fa-circle nav-icon"></i>
+                           <i class="fas fa-university"></i>
                             <p>
                                 Admission
                                 <i class="right fas fa-angle-left"></i>
@@ -139,7 +139,7 @@
                     <!-- Students Menu -->
                     <li class="nav-item">
                         <a href="#" class="nav-link">
-                            <i class="far fa-circle nav-icon"></i>
+                           <i class="fas fa-user-graduate"></i>
                             <p>
                                 Students
                                 <i class="right fas fa-angle-left"></i>
@@ -243,7 +243,7 @@
                     <!-- Academic Menu -->
                     <li class="nav-item">
                         <a href="#" class="nav-link">
-                            <i class="far fa-circle nav-icon"></i>
+                           <i class="fab fa-accusoft"></i>
                             <p>
                                 Academic
                                 <i class="right fas fa-angle-left"></i>
@@ -371,7 +371,7 @@
                   <!--Examinations-->
                    <li class="nav-item">
                         <a href="#" class="nav-link">
-                            <i class="far fa-circle nav-icon"></i>
+                           <i class="fas fa-file-alt"></i>
                             <p>
                                 Examinations
                                 <i class="right fas fa-angle-left"></i>
@@ -466,7 +466,7 @@
                             <!--Study Matirial-->
                          <li class="nav-item">
                         <a href="#" class="nav-link">
-                            <i class="far fa-circle nav-icon"></i>
+                           <i class="fas fa-newspaper"></i>
                             <p>
                                 Student Materials
                                 <i class="right fas fa-angle-left"></i>
@@ -507,7 +507,7 @@
                    <!-- Fees Collection -->
         <li class="nav-item">
           <a href="#" class="nav-link">
-            <i class="far fa-circle nav-icon"></i>
+           <i class="fas fa-money-bill-wave"></i>
             <p>
               Fees Collection
               <i class="right fas fa-angle-left"></i>
@@ -596,7 +596,7 @@
                 <!--Inventory-->
                  <li class="nav-item">
                         <a href="#" class="nav-link">
-                            <i class="far fa-circle nav-icon"></i>
+                            <i class="fas fa-dolly-flatbed"></i>
                             <p>
                                 Inventory
                                 <i class="right fas fa-angle-left"></i>
@@ -656,7 +656,7 @@
                       <!--Transcripts-->
                       <li class="nav-item">
                         <a href="#" class="nav-link">
-                            <i class="far fa-circle nav-icon"></i>
+                            <i class="fas fa-address-card"></i>
                             <p>
                                Transcripts
                                 <i class="right fas fa-angle-left"></i>
