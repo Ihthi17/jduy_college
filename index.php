@@ -57,7 +57,7 @@ include 'includes/sidebar.php';
                 <p>Active Students</p>
               </div>
               <div class="icon">
-                <i class="ion ion-stats-bars"></i>
+               <i class="fa-solid fa-user-graduate"></i>
               </div>
               <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
             </div>
@@ -72,7 +72,7 @@ include 'includes/sidebar.php';
                 <p>Active Staffs</p>
               </div>
               <div class="icon">
-                <i class="ion ion-person-add"></i>
+               <i class="fa-solid fa-user-tag"></i>
               </div>
               <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
             </div>
@@ -87,7 +87,7 @@ include 'includes/sidebar.php';
                 <p>Total Books</p>
               </div>
               <div class="icon">
-                <i class="ion ion-pie-graph"></i>
+               <i class="fa-solid fa-book"></i>
               </div>
               <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
             </div>
@@ -103,7 +103,7 @@ include 'includes/sidebar.php';
                 <p>Daily visiting logs</p>
               </div>
               <div class="icon">
-                <i class="ion ion-pie-graph"></i>
+               <i class="fa-solid fa-eye"></i>
               </div>
               <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
             </div>
@@ -119,7 +119,7 @@ include 'includes/sidebar.php';
                 <p>Daily Phone Logs</p>
               </div>
               <div class="icon">
-                <i class="ion ion-pie-graph"></i>
+               <i class="fa-solid fa-phone-volume"></i>
               </div>
               <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
             </div>
@@ -135,7 +135,7 @@ include 'includes/sidebar.php';
                 <p> Daily Enquiries</p>
               </div>
               <div class="icon">
-                <i class="ion ion-pie-graph"></i>
+                <i class="fa-solid fa-question"></i>
               </div>
               <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
             </div>
@@ -151,7 +151,7 @@ include 'includes/sidebar.php';
                 <p>Daily Postal Exchanges</p>
               </div>
               <div class="icon">
-                <i class="ion ion-pie-graph"></i>
+               <i class="fa-solid fa-arrow-right-arrow-left"></i>
               </div>
               <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
             </div>
