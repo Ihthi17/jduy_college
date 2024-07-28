@@ -42,7 +42,7 @@ include 'includes/sidebar.php';
                 <p>Pending Application</p>
               </div>
               <div class="icon">
-                <i class="ion ion-bag"></i>
+               <i class="fa-solid fa-scroll"></i>
               </div>
               <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
             </div>
