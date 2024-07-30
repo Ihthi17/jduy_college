@@ -13,10 +13,11 @@ include 'includes/sidebar.php';
                     </div>
   <div class="card-body">
     <div class="col-md-12 text-left">
-                    <button type="button" class="btn btn-primary mr-2" onclick="window.location.href='#'"><i class="fa-solid fa-right-left"></i> Transfer</button>
+                    <button type="button" class="btn btn-primary mr-2" onclick="window.location.href='add_transfer_in.php'"><i class="fa-solid fa-right-left"></i> Transfer</button>
                     <button type="button" class="btn btn-info"><i class="fa-solid fa-arrows-rotate"></i> Refresh</button>
                 </div>
                 <br>
+                  <div class="table-responsive">
     <table class="table">
       <thead>
         <tr>
@@ -43,6 +44,7 @@ include 'includes/sidebar.php';
 
           </tbody>
     </table>
+                  </div>
   </div>
   </div>
 
