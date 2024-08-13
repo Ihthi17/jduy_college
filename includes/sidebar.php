@@ -1,3 +1,6 @@
+
+
+
 <!-- Main Sidebar Container -->
 <aside class="main-sidebar sidebar-dark-primary elevation-4">
   <!-- Brand Logo -->
@@ -11,7 +14,7 @@
             <!-- Sidebar user panel (optional) -->
             <div class="user-panel mt-3 pb-3 mb-3 d-flex">
                 <div class="image">
-                    <img src="assests/dist/img/judy.png" class="img-circle elevation-2" alt="User Image">
+                    <img src="../assests/dist/img/judy.png" class="img-circle elevation-2" alt="User Image">
                 </div>
                 <div class="info">
                     <a href="#" class="d-block">Judy College</a>
@@ -20,10 +23,10 @@
 
             <!-- Sidebar Menu -->
             <nav class="mt-2">
-                <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
-                    <!-- Dashboard -->
+            <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" data-accordion="false">                
+                   <!-- Dashboard -->
                     <li class="nav-item">
-                        <a href="./index.php" class="nav-link">
+                        <a href="../dashboard/index.php" class="nav-link">
                            <i class="fa-solid fa-gauge"></i>
                             <p>Dashboard</p>
                         </a>
@@ -40,7 +43,7 @@
                         </a>
                         <ul class="nav nav-treeview">
                             <li class="nav-item">
-                                <a href="application.php" class="nav-link">
+                                <a href="../admission/application.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Application</p>
                                 </a>
@@ -55,7 +58,7 @@
                                 </a>
                                 <ul class="nav nav-treeview">
                                     <li class="nav-item">
-                                        <a href="add_student.php" class="nav-link">
+                                        <a href="../admission/add_student.php" class="nav-link">
                                             <i class="far fa-circle nav-icon"></i>
                                             <p>Add Student</p>
                                         </a>
@@ -63,7 +66,7 @@
                                 </ul>
                             </li>
                             <li class="nav-item">
-                                <a href="student_list.php" class="nav-link">
+                                <a href="../admission/student_list.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Student List</p>
                                 </a>
@@ -76,13 +79,13 @@
                                 </a>
                                 <ul class="nav nav-treeview">
                                     <li class="nav-item">
-                                        <a href="transfer_in.php" class="nav-link">
+                                        <a href="../admission/transfer_in.php" class="nav-link">
                                             <i class="far fa-circle nav-icon"></i>
                                             <p>Transfer In</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="transfer_out.php" class="nav-link">
+                                        <a href="../admission/transfer_out.php" class="nav-link">
                                             <i class="far fa-circle nav-icon"></i>
                                             <p>Transfer Out</p>
                                         </a>
@@ -90,7 +93,7 @@
                                 </ul>
                             </li>
                             <li class="nav-item">
-                                <a href="status_type.php" class="nav-link">
+                                <a href="../admission/status_type.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Status Type</p>
                                 </a>
@@ -103,7 +106,7 @@
                                 </a>
                                  <ul class="nav nav-treeview">
                                     <li class="nav-item">
-                                        <a href="id_card_setting.php" class="nav-link">
+                                        <a href="../admission/id_card_setting.php" class="nav-link">
                                             <i class="far fa-circle nav-icon"></i>
                                             <p>ID Card Setting</p>
                                         </a>
@@ -120,13 +123,13 @@
                                 </a>
                                 <ul class="nav nav-treeview">
                                     <li class="nav-item">
-                                        <a href="subject_atten.php" class="nav-link">
+                                        <a href="../admission/subject_atten.php" class="nav-link">
                                             <i class="far fa-circle nav-icon"></i>
                                             <p>Subject Attendance</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="atten_report.php" class="nav-link">
+                                        <a href="../admission/atten_report.php" class="nav-link">
                                             <i class="far fa-circle nav-icon"></i>
                                             <p>Attendance Report</p>
                                         </a>
@@ -147,13 +150,13 @@
                         </a>
                         <ul class="nav nav-treeview">
                             <li class="nav-item">
-                                <a href="leave_manage.php" class="nav-link">
+                                <a href="../students/leave_manage.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Leave Management</p>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="student_notes.php" class="nav-link">
+                                <a href="../students/student_notes.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Student Notes</p>
                                 </a>
@@ -166,7 +169,7 @@
                                 </a>
                                  <ul class="nav nav-treeview">
                                     <li class="nav-item">
-                                        <a href="single_enroll.php" class="nav-link">
+                                        <a href="../students/single_enroll.php" class="nav-link">
                                             <i class="far fa-circle nav-icon"></i>
                                             <p>Single Enrolls</p>
                                         </a>
@@ -174,7 +177,7 @@
                                 </ul>
                                  <ul class="nav nav-treeview">
                                     <li class="nav-item">
-                                        <a href="group_enroll.php" class="nav-link">
+                                        <a href="../students/group_enroll.php" class="nav-link">
                                             <i class="far fa-circle nav-icon"></i>
                                             <p>Group Enrolls</p>
                                         </a>
@@ -182,7 +185,7 @@
                                 </ul>
                                  <ul class="nav nav-treeview">
                                     <li class="nav-item">
-                                        <a href="course_add_drop.php" class="nav-link">
+                                        <a href="../students/course_add_drop.php" class="nav-link">
                                             <i class="far fa-circle nav-icon"></i>
                                             <p>Course Add Drop</p>
                                         </a>
@@ -190,7 +193,7 @@
                                 </ul>
                                  <ul class="nav nav-treeview">
                                     <li class="nav-item">
-                                        <a href="course_complete.php" class="nav-link">
+                                        <a href="../students/course_complete.php" class="nav-link">
                                             <i class="far fa-circle nav-icon"></i>
                                             <p>Course Complete</p>
                                         </a>
@@ -198,7 +201,7 @@
                                 </ul>
                             </li>
                             <li class="nav-item">
-                                <a href="student_alumni.php" class="nav-link">
+                                <a href="../students/student_alumni.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Student Alumni</p>
                                 </a>
@@ -213,7 +216,7 @@
                                 </a>
                                 <ul class="nav nav-treeview">
                                     <li class="nav-item">
-                                        <a href="create_faculty.php" class="nav-link">
+                                        <a href="../students/create_faculty.php" class="nav-link">
                                             <i class="far fa-circle nav-icon"></i>
                                             <p>Create Faculty</p>
                                         </a>
@@ -230,7 +233,7 @@
                                 </a>
                                 <ul class="nav nav-treeview">
                                     <li class="nav-item">
-                                        <a href="create_program.php" class="nav-link">
+                                        <a href="../students/create_program.php" class="nav-link">
                                             <i class="far fa-circle nav-icon"></i>
                                             <p>Create Program</p>
                                         </a>
@@ -251,7 +254,7 @@
                         </a>
                         <ul class="nav nav-treeview">
                             <li class="nav-item">
-                                <a href="batches.php" class="nav-link">
+                                <a href="../academic/batches.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Batches</p>
                                 </a>
@@ -266,7 +269,7 @@
                                 </a>
                                 <ul class="nav nav-treeview">
                                     <li class="nav-item">
-                                        <a href="sessions.php" class="nav-link">
+                                        <a href="../academic/sessions.php" class="nav-link">
                                             <i class="far fa-circle nav-icon"></i>
                                             <p>Create Session</p>
                                         </a>
@@ -274,19 +277,19 @@
                                 </ul>
                             </li>
                             <li class="nav-item">
-                                <a href="semesters.php" class="nav-link">
+                                <a href="../academic/semesters.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Semester</p>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="sections.php" class="nav-link">
+                                <a href="../academic/sections.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Section</p>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="classrooms.php" class="nav-link">
+                                <a href="../academic/classrooms.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Classroom</p>
                                 </a>
@@ -301,7 +304,7 @@
                                 </a>
                                 <ul class="nav nav-treeview">
                                     <li class="nav-item">
-                                        <a href="add_course.php" class="nav-link">
+                                        <a href="../academic/add_course.php" class="nav-link">
                                             <i class="far fa-circle nav-icon"></i>
                                             <p>Add Courses</p>
                                         </a>
@@ -318,7 +321,7 @@
                                 </a>
                                 <ul class="nav nav-treeview">
                                     <li class="nav-item">
-                                        <a href="Create_enroll_course.php" class="nav-link">
+                                        <a href="../academic/create_enroll_course.php" class="nav-link">
                                             <i class="far fa-circle nav-icon"></i>
                                             <p>Create Enroll Course</p>
                                         </a>
@@ -326,19 +329,19 @@
                                 </ul>
                             </li>
                             <li class="nav-item">
-                                <a href="class_routine.php" class="nav-link">
+                                <a href="../academic/class_routine.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Class Routine</p>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="exam_routine.php" class="nav-link">
+                                <a href="../academic/exam_routine.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Exam Routine</p>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="lecture_routine.php" class="nav-link">
+                                <a href="../academic/lecture_routine.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Lecture Routine</p>
                                 </a>
@@ -353,13 +356,13 @@
                                 </a>
                                 <ul class="nav nav-treeview">
                                     <li class="nav-item">
-                                        <a href="s_class_routine.php" class="nav-link">
+                                        <a href="../academic/s_class_routine.php" class="nav-link">
                                             <i class="far fa-circle nav-icon"></i>
                                             <p>Class Routine</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="s_exam_routine.php" class="nav-link">
+                                        <a href="../academic/s_exam_routine.php" class="nav-link">
                                             <i class="far fa-circle nav-icon"></i>
                                             <p>Exam Routine</p>
                                         </a>
@@ -379,32 +382,32 @@
                         </a>
                         <ul class="nav nav-treeview">
                             <li class="nav-item">
-                                <a href="exam_attendance.php" class="nav-link">
+                                <a href="../examination/exam_attendance.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Exam Attendance</p>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="exam_mark_ledger.php" class="nav-link">
+                                <a href="../examination/exam_mark_ledger.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Exam Mark Ledger</p>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="exam_result.php" class="nav-link">
+                                <a href="../examination/exam_result.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Exam Result</p>
                                    
                                 </a>
                                   </li>
                             <li class="nav-item">
-                                <a href="course_mark_ledger.php" class="nav-link">
+                                <a href="../examination/course_mark_ledger.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Course Mark Ledger</p>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="course_result.php" class="nav-link">
+                                <a href="../examination/course_result.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>
                                         Course Result
@@ -412,7 +415,7 @@
                                 </a>
                                 </li>
                             <li class="nav-item">
-                                <a href="grading_system.php" class="nav-link">
+                                <a href="../examination/grading_system.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>
                                         Grading System
@@ -420,7 +423,7 @@
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="exam_type.php" class="nav-link">
+                                <a href="../examination/exam_type.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>
                                         Exam Types
@@ -428,7 +431,7 @@
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="admit_cards.php" class="nav-link">
+                                <a href="../examination/admit_cards.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>
                                         Admit Cards
@@ -445,7 +448,7 @@
                                 </a>
                            <ul class="nav nav-treeview">
                                     <li class="nav-item">
-                                        <a href="admit_setting.php" class="nav-link">
+                                        <a href="../examination/admit_setting.php" class="nav-link">
                                             <i class="far fa-circle nav-icon"></i>
                                             <p>Admit Setting</p>
                                         </a>
@@ -453,7 +456,7 @@
                                 </ul>
                                  <ul class="nav nav-treeview">
                                     <li class="nav-item">
-                                        <a href="contribution.php" class="nav-link">
+                                        <a href="../examination/contribution.php" class="nav-link">
                                             <i class="far fa-circle nav-icon"></i>
                                             <p>Contribution</p>
                                         </a>
@@ -474,13 +477,13 @@
                         </a>
                         <ul class="nav nav-treeview">
                             <li class="nav-item">
-                                <a href="assignment_list.php" class="nav-link">
+                                <a href="../studey_materials/assignment_list.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Assignment List</p>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="content_list.php" class="nav-link">
+                                <a href="../studey_materials/content_list.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>
                                        Content List
@@ -490,7 +493,7 @@
                                
                             </li>
                             <li class="nav-item">
-                                <a href="content_types.php" class="nav-link">
+                                <a href="../studey_materials/content_types.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Content Types</p>
                                 </a>
@@ -524,25 +527,25 @@
               </a>
               <ul class="nav nav-treeview">
                 <li class="nav-item">
-                  <a href="fees_due.php" class="nav-link">
+                  <a href="../fees_collection/fees_due.php" class="nav-link">
                     <i class="far fa-circle nav-icon"></i>
                     <p>Fees Due</p>
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a href="quick_assign.php" class="nav-link">
+                  <a href="../fees_collection/quick_assign.php" class="nav-link">
                     <i class="far fa-circle nav-icon"></i>
                     <p>Quick Assign</p>
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a href="quick_received.php" class="nav-link">
+                  <a href="../fees_collection/quick_received.php" class="nav-link">
                     <i class="far fa-circle nav-icon"></i>
                     <p>Quick Received</p>
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a href="fees_report.php" class="nav-link">
+                  <a href="../fees_collection/fees_report.php" class="nav-link">
                     <i class="far fa-circle nav-icon"></i>
                     <p>Fees Report</p>
                   </a>
@@ -550,19 +553,19 @@
               </ul>
             </li>
             <li class="nav-item">
-              <a href="fees_master.php" class="nav-link">
+              <a href="../fees_collection/fees_master.php" class="nav-link">
                 <i class="far fa-circle nav-icon"></i>
                 <p>Fees Master</p>
               </a>
             </li>
             <li class="nav-item">
-              <a href="fees_type.php" class="nav-link">
+              <a href="../fees_collection/fees_type.php" class="nav-link">
                 <i class="far fa-circle nav-icon"></i>
                 <p>Fees Types</p>
               </a>
             </li>
             <li class="nav-item">
-              <a href="fees_discount.php" class="nav-link">
+              <a href="../fees_collection/fees_discount.php" class="nav-link">
                 <i class="far fa-circle nav-icon"></i>
                 <p>Fees Discount</p>
               </a>
@@ -577,7 +580,7 @@
               </a>
               <ul class="nav nav-treeview">
                 <li class="nav-item">
-                  <a href="fees_fines.php" class="nav-link">
+                  <a href="../fees_collection/fees_fines.php" class="nav-link">
                     <i class="far fa-circle nav-icon"></i>
                     <p>Fees Fines</p>
                   </a>
@@ -585,7 +588,7 @@
               </ul>
               <ul class="nav nav-treeview">
                 <li class="nav-item">
-                  <a href="receipt_setting.php" class="nav-link">
+                  <a href="../fees_collection/receipt_setting.php" class="nav-link">
                     <i class="far fa-circle nav-icon"></i>
                     <p>Receipt Setting</p>
                   </a>
@@ -604,13 +607,13 @@
                         </a>
                         <ul class="nav nav-treeview">
                             <li class="nav-item">
-                                <a href="item_issues.php" class="nav-link">
+                                <a href="../inventory/item_issues.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Item Issues</p>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="item_stock.php" class="nav-link">
+                                <a href="../inventory/item_stock.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>
                                       Item Stock
@@ -620,25 +623,25 @@
                                
                             </li>
                             <li class="nav-item">
-                                <a href="item_list.php" class="nav-link">
+                                <a href="../inventory/item_list.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Item List</p>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="item_store.php" class="nav-link">
+                                <a href="../inventory/item_store.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Item Stores</p>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="item_supplier.php" class="nav-link">
+                                <a href="../inventory/item_supplier.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Item Suppliers</p>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="item_category.php" class="nav-link">
+                                <a href="../inventory/item_category.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Item Categories</p>
                                 </a>
@@ -664,13 +667,13 @@
                         </a>
                         <ul class="nav nav-treeview">
                             <li class="nav-item">
-                                <a href="semester_marksheet.php" class="nav-link">
+                                <a href="../transcripts/semester_marksheet.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Semester Marksheet</p>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="certificate.php" class="nav-link">
+                                <a href="../transcripts/certificate.php" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>
                                       Certificate
@@ -693,13 +696,13 @@
         </a>
         <ul class="nav nav-treeview">
             <li class="nav-item">
-                <a href="student_progrss.php" class="nav-link">
+                <a href="../report/student_progrss.php" class="nav-link">
                     <i class="far fa-circle nav-icon"></i>
                     <p>Student Progess</p>
                 </a>
             </li>
             <li class="nav-item">
-                <a href="course_student.php" class="nav-link">
+                <a href="../report/course_student.php" class="nav-link">
                     <i class="far fa-circle nav-icon"></i>
                     <p>Course Student</p>
                 </a>
@@ -731,3 +734,4 @@
   </div>
   <!-- /.sidebar -->
 </aside>
+  
